@@ -1,5 +1,10 @@
 *.launch
+*.Id
 
+.mxproject
+.project
+.settings
+.cproject
 .metadata
 Debug
 Drivers
